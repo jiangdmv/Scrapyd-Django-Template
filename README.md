@@ -9,6 +9,8 @@ Basic setup to run ScrapyD + Django and save it in Django Models. You can be up 
 * Basic demo from the oficial tutorial that crawls data from http://quotes.toscrape.com
 
 
+docker-compose -f docker-compose.yml up
+
 ## Setup
 1 - Install requirements
 ````
